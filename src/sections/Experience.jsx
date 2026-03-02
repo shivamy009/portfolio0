@@ -9,7 +9,7 @@ const experiences = [
     current: true,
   },
   {
-    period: "May 2025 — Dec 2025",
+    period: "May 2025 — Feb 2026",
     role: "Full Stack Developer",
     company: "Riyans WebTech",
     description:
