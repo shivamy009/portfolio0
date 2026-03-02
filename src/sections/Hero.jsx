@@ -134,7 +134,7 @@ export const Hero = () => {
               <div className="relative glass rounded-full p-2 glow-border group overflow-hidden">
                 <img
                   src="/profile-photo.png"
-                  alt="vinay kumar"
+                  alt="shivam yadav"
                   className="w-full aspect-square object-cover rounded-full transition-transform duration-500 ease-out group-hover:scale-105 relative z-0"
                 />
 

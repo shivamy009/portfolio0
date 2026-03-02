@@ -49,7 +49,7 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I’m Vinay, a passionate software engineer based in Varanasi,
+                I’m Shivam, a passionate software engineer based in Varanasi,
                 India. I specialize in modern web applications built with React
                 and Next.js, and I enjoy turning complex UX and performance
                 requirements into elegant, maintainable code.

@@ -16,7 +16,7 @@ const categories = [
   {
     title: "Backend",
     icon: Database,
-    items: ["Node.js", "Express.js", "MongoDB", "MySQL"],
+    items: ["Node.js", "Express.js", "MongoDB", "MySQL", "FastAPI", "Pinecone"],
   },
   {
     title: "Languages",
@@ -29,9 +29,9 @@ const categories = [
     items: ["Git", "GitHub", "VS Code", "Figma", "Vercel"],
   },
   {
-    title: "Machine Learning",
+    title: "DevOps & Deployment",
     icon: Lightbulb,
-    items: ["PyTorch", "TensorFlow", "scikit-learn", "NumPy", "Pandas", "Hugging Face"],
+    items: ["Docker", "CI/CD", "Vultr", "Digital Ocean", "VPS", "AWS"],
   },
   {
     title: "Core Subjects",
