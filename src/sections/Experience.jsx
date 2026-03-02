@@ -1,12 +1,21 @@
 const experiences = [
   {
+    period: "Jan 2026 — Present",
+    role: "Full Stack AI Engineer",
+    company: "Qlink (Clara.Ai)",
+    description:
+      "Building intelligent WhatsApp bot solutions to help businesses automate customer interactions and improve operational performance.\n\nDeveloping full-stack dashboards using the MERN stack (MongoDB, Express, React, Node.js) for real-time data visualization and management.\n\nImplementing scalable backend services with FastAPI, containerizing applications with Docker, and establishing CI/CD pipelines for automated deployment of production-ready applications.",
+    technologies: ["React", "Node.js", "MongoDB", "FastAPI", "Docker", "CI/CD", "WhatsApp Bot", "AI/ML"],
+    current: true,
+  },
+  {
     period: "May 2025 — Dec 2025",
     role: "Full Stack Developer",
     company: "Riyans WebTech",
     description:
       "Built and maintained scalable web applications using React, Node.js, and RESTful APIs, following clean code and modular design principles.\n\nOwned features end-to-end, including requirement analysis, implementation, testing, and production deployment.\n\nImplemented JWT-based authentication and backend services supporting 1,000+ user records with performance and security considerations.",
     technologies: ["React", "Node.js","MongoDB","ExpressJs","Next.Js", "REST API", "JWT", "JavaScript"],
-    current: true,
+    current: false,
   },
   {
     period: "Nov 2024 — Dec 2024",
