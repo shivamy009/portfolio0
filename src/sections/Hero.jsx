@@ -98,7 +98,10 @@ export const Hero = () => {
               >
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
-              <AnimatedBorderButton>
+              <AnimatedBorderButton
+                href="/shivam_resume.pdf"
+                download="Shivam_Resume.pdf"
+              >
                 <Download className="w-5 h-5" />
                 Download Resume
               </AnimatedBorderButton>
