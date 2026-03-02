@@ -49,31 +49,31 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I’m Shivam, a passionate software engineer based in Varanasi,
-                India. I specialize in modern web applications built with React
-                and Next.js, and I enjoy turning complex UX and performance
-                requirements into elegant, maintainable code.
+                I'm Shivam, a passionate full-stack developer and software engineer based in Varanasi,
+                India. I specialize in building modern, scalable web applications using React, Next.js, 
+                and cutting-edge technologies. My passion lies in transforming complex ideas into 
+                elegant, high-performance digital solutions that make a real impact.
               </p>
               <p>
-                I work end-to-end — from designing intuitive interfaces with
-                Tailwind and Material UI to building scalable backends with
-                Node.js and databases like PostgreSQL and MongoDB. I focus on
-                performance, developer ergonomics, and delivering delightful
-                user experiences.
+                My expertise spans the entire development lifecycle — from crafting responsive, 
+                accessible frontends with React and Tailwind CSS to architecting robust backends 
+                with Node.js, Express.js, and FastAPI. I work with diverse databases including 
+                MongoDB, MySQL, and vector databases like Pinecone, while leveraging modern DevOps 
+                practices with Docker, CI/CD pipelines, and cloud platforms like Digital Ocean and AWS.
               </p>
               <p>
-                When I’m not coding, I’m exploring new technologies,
-                contributing to open-source, and sharing knowledge with the
-                developer community. If you have an interesting project or need
-                help shipping a production-ready web app, let’s connect.
+                Beyond coding, I'm deeply interested in emerging technologies, open-source 
+                contributions, and knowledge sharing within the developer community. I believe 
+                in writing clean, maintainable code that not only solves today's problems but 
+                evolves with tomorrow's challenges. Let's collaborate and build something extraordinary together.
               </p>
             </div>
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
-                "My mission is to build performant, accessible web experiences
-                that solve real problems — delivering clean, maintainable code
-                and delightful user interfaces that people enjoy using."
+                "I'm driven by the belief that great software isn't just about code — it's about 
+                creating meaningful experiences that empower users and drive innovation. Every line 
+                of code I write is a step toward building a more connected, efficient digital world."
               </p>
             </div>
           </div>
