@@ -2,6 +2,20 @@ import { Code2, ComputerIcon, Database, Terminal, Wrench, Lightbulb } from "luci
 
 const categories = [
   {
+    title: "AI Engineering",
+    icon: Lightbulb,
+    items: [
+      "LLMs",
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "Vector DBs",
+      "Fine-tuning",
+      "Prompt Engineering",
+      "AI Agents",
+    ],
+  },
+  {
     title: "Frontend",
     icon: Code2,
     items: [
@@ -16,7 +30,7 @@ const categories = [
   {
     title: "Backend",
     icon: Database,
-    items: ["Node.js", "Express.js", "MongoDB", "MySQL", "FastAPI", "Pinecone"],
+    items: ["Node.js", "Express.js", "Go", "MongoDB", "MySQL", "PostgreSQL"],
   },
   {
     title: "Languages",
@@ -31,7 +45,7 @@ const categories = [
   {
     title: "DevOps & Deployment",
     icon: Lightbulb,
-    items: ["Docker", "CI/CD", "Vultr", "Digital Ocean", "VPS", "AWS"],
+    items: ["Docker", "CI/CD", "Kubernetes", "Load Balancer", "AWS", "VPS"],
   },
   {
     title: "Core Subjects",

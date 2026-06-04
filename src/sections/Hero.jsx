@@ -82,7 +82,7 @@ export const Hero = () => {
                 
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                I am a Full Stack Developer and DSA enthusiast, aspiring Software Engineer, with strong expertise in the MERN stack, Next.js, and JavaScript. I enjoy solving Data Structures and Algorithms problems, building scalable web applications, and continuously evolving as a developer. I also have a keen interest in Machine Learning and emerging technologies.
+                I am an AI Engineer and Full Stack Developer focused on building intelligent, scalable products with LLMs, LangChain, LangGraph, and modern web technologies. I enjoy designing AI-powered workflows, solving Data Structures and Algorithms problems, and turning ideas into production-ready applications with the MERN stack, Next.js, JavaScript, and Go. I am especially interested in Machine Learning, agentic systems, and emerging technologies that make software more adaptive and useful.
               </p>
             </div>
 

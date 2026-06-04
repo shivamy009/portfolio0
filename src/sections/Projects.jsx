@@ -2,6 +2,35 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
+    title: "EndorsePro",
+    description:
+      "EndorsePro — a MERN application implementing secure JWT authentication for user endorsements and profile management. Built with React, Node.js, Express, and MongoDB to deliver a responsive, production-ready endorsement platform.",
+    image: "/projects/endorsepro.png",
+    tags: ["MERN", "React.js", "Node.js", "Express.js", "MongoDB", "JWT"],
+    year: "2026",
+    link: "https://dev.endorsepro.co",
+    github: "https://github.com/endorsepro/Backend-microservices",
+  },
+  {
+    title: "JaipurRugs (AI Powered JR Dashboard)",
+    description:
+      "JR Dashboard — a product information dashboard for JaipurRugs that surfaces product details, pricing, and color variants. AI-powered with vector DBs and semantic search to enable fast, relevant product retrieval and smart recommendations.",
+    image: "/projects/jaipurrugs.png",
+    tags: [
+      "MERN",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Vector DB",
+      "Semantic Search",
+      "LLMs",
+    ],
+    year: "2026",
+    link: "https://jaipurrugs.claraai.tech",
+    github: "#",
+  },
+  {
     title: "Blogging Website",
     description:
       "A full-stack blogging platform with secure JWT authentication, allowing users to create, like, and comment on posts. Designed with a responsive UI and optimized for performance across all devices.",

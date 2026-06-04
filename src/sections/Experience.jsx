@@ -1,6 +1,15 @@
 const experiences = [
   {
-    period: "Jan 2026 — Present",
+    period: "April 2026 — Present",
+    role: "Go Backend Developer",
+    company: "Eva Bharat",
+    description:
+      "Building and maintaining backend services in Go with a focus on performance, reliability, and clean API design.\n\nWorking with AWS, Kubernetes, load balancers, and PostgreSQL to support scalable infrastructure and production deployments.\n\nContributing to backend architecture, service stability, and operational improvements across the platform.",
+    technologies: ["Go", "AWS", "Kubernetes", "Load Balancer", "PostgreSQL", "Backend Development"],
+    current: true,
+  },
+  {
+    period: "Feb 2026 — April 2026",
     role: "Full Stack AI Engineer",
     company: "Qlink (Clara.Ai)",
     description:
